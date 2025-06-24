@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698864423473",
+    "project_id": "isuuply-task",
+    "storage_bucket": "isuuply-task.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698864423473:android:b558cac535496638237b10",
+        "android_client_info": {
+          "package_name": "com.example.isupplytask1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBazRWSh953sxjG1KabQWJxhU4SnX4sr4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
